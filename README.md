@@ -34,7 +34,7 @@ pip install pynput
 ## Utilizzo
 
 1. Clona il repository o copia il codice nel tuo ambiente locale.
-2. (Facoltativo) Modifica il percorso di salvataggio del file di log nel codice, se necessario.
+2. Modifica il percorso di salvataggio del file di log nel codice.
 3. Esegui lo script Python:
 
 ```bash
